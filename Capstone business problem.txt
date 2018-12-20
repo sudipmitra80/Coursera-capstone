@@ -1,0 +1,5 @@
+Opening new Cafe chain in Chicago
+
+There is a business proposal to open cafe chain around Chicago area. we need to find location which suits different areas in and around Chicago.
+
+we'll analyze Foursquare geographical data to understand which are the areas will be benefitted to open cafe chain in and around Chicago area.
