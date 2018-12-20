@@ -1,0 +1,8 @@
+Opening new Cafe chain in Chicago
+
+To find out various probable areas in and around Chicago, we need to find out various neighborhood in Chicago and their geographical locations. we can get list of neighborhood 
+from wiki page https://en.wikipedia.org/wiki/List_of_neighborhoods_in_Chicago
+
+we need to scrap the web page and load into dataframe and find out geographical locations for all neighborhoods in Chicago.
+
+Once data for all neighborhood prepared then find all venues related to cafe present in Chicago from Foursquare app and cluster data to find feasible areas to open cafe chain in Chicago area.
